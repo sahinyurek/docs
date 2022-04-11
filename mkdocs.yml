@@ -67,7 +67,7 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - TheHive:
+  - 'Setup & operations':
     - 'Overview': thehive/setup/index.md
     - 'Download': thehive/download/index.md
     - 'Installation':
@@ -95,6 +95,36 @@ nav:
       - thehive/setup/operations/https.md
       - thehive/setup/operations/fail2ban.md
       - thehive/setup/operations/troubleshooting.md
-    - 'Release Notes':
+  - 'Administration':
+    - 'Overview': thehive/administration/introduction.md
+    - 'Getting started': thehive/administration/getting-started.md
+    - 'Organisations':
+      - 'Organization Management' : thehive/administration/organization/index.md
+    - 'Users account':
+      - 'Account Settings' : thehive/administration/account-settings/index.md
+    - 'Entities Management' : 
+      - 'Overview' : thehive/administration/entities-management/index.md
+      - 'Users profiles'
+      - 'Custom fields'
+      - 'Observables types'
+      - 'Case status'
+      - 'Alert status'
+      - 'Analyzers templates'
+      - 'Taxonomies'
+      - 'Att&ck patterns'            
+    - 'Platform Management' : 
+      - 'Overview' : thehive/administration/platform-management/index.md
+      - 'License'
+      - 'Status'
+      - 'Branding'
+      - 'Cortex'
+      - 'MISP'
+      - 'Authentication'
+      - 'SMTP'
+      - 'Global endpoints'
+      - 'LDAP'
+      # - 'User Management' : thehive/administration/users/
+  - 'User guides'
+  - 'Release Notes':
       - 'Release Notes for TheHive 5.0': thehive/release-notes/release-notes-5.0.md
   - 'API Docs': thehive/api-docs/" target="_blank

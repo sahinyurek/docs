@@ -1,0 +1,7 @@
+nav:
+  - Home: index.md
+  - 'Setup & operations': setup
+  - 'Administration': administration
+  - 'User guides': organization
+  - 'Release notes': release-notes
+  - 'API Docs': thehive/api-docs/" target="_blank

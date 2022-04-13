@@ -1,0 +1,4 @@
+---
+nav:
+    - 'Current version': 5.0.2.md
+    - ... | 5.0.*.md

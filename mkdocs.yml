@@ -10,6 +10,7 @@ theme:
     - navigation.instant
     - navigation.indexes
     - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.top
     - navigation.tracking
     - search.highlight
@@ -30,9 +31,14 @@ extra_css:
 plugins:
   - search
   - awesome-pages
+  - git-revision-date-localized:
+      type: datetime
   - redirects:
-        redirect_maps:
-            'thehive/index.md': 'thehive/setup/index.md'
+        # redirect_maps:
+        #     'thehive/index.md': 'thehive/setup/index.md'
+
+repo_name: "StrangeBeeCorp/docs"
+repo_url: "https://github.com/StrangeBeeCorp/docs"
 
 extra:
   social:
@@ -64,67 +70,3 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
-
-nav:
-  - Home: index.md
-  - 'Setup & operations':
-    - 'Overview': thehive/setup/index.md
-    - 'Download': thehive/download/index.md
-    - 'Installation':
-      - thehive/setup/installation/step-by-step-guide.md
-      - 'Running with Docker': thehive/setup/installation/docker.md
-      - 'Activate a license': thehive/setup/installation/license.md
-      - thehive/setup/installation/3-node-cluster.md
-      - thehive/setup/installation/upgrade-from-4.x.md
-      - thehive/setup/installation/migration.md
-      - thehive/setup/installation/upgrade-cluster.md
-    - 'Configuration':
-      - 'Database & index': thehive/setup/configuration/database.md
-      - 'File storage': thehive/setup/configuration/file-storage.md
-      - thehive/setup/configuration/connectors.md
-      - thehive/setup/configuration/akka.md
-      - thehive/setup/configuration/logs.md
-      - thehive/setup/configuration/proxy.md
-      - thehive/setup/configuration/secret.md
-      - thehive/setup/configuration/ssl.md
-    - 'Operations': 
-      - 'Operations on a Cassandra Cluster': thehive/setup/operations/cassandra-cluster.md
-      - thehive/setup/operations/backup-restore.md
-      - thehive/setup/operations/cassandra-security.md
-      - 'Operations on a MINIO cluster': thehive/setup/operations/minio-cluster.md
-      - thehive/setup/operations/https.md
-      - thehive/setup/operations/fail2ban.md
-      - thehive/setup/operations/troubleshooting.md
-  - 'Administration':
-    - 'Overview': thehive/administration/introduction.md
-    - 'Getting started': thehive/administration/getting-started.md
-    - 'Organisations':
-      - 'Organization Management' : thehive/administration/organization/index.md
-    - 'Users account':
-      - 'Account Settings' : thehive/administration/account-settings/index.md
-    - 'Entities Management' : 
-      - 'Overview' : thehive/administration/entities-management/index.md
-      - 'Users profiles'
-      - 'Custom fields'
-      - 'Observables types'
-      - 'Case status'
-      - 'Alert status'
-      - 'Analyzers templates'
-      - 'Taxonomies'
-      - 'Att&ck patterns'            
-    - 'Platform Management' : 
-      - 'Overview' : thehive/administration/platform-management/index.md
-      - 'License'
-      - 'Status'
-      - 'Branding'
-      - 'Cortex'
-      - 'MISP'
-      - 'Authentication'
-      - 'SMTP'
-      - 'Global endpoints'
-      - 'LDAP'
-      # - 'User Management' : thehive/administration/users/
-  - 'User guides': 'User guides'
-  - 'Release Notes':
-      - 'Release Notes for TheHive 5.0': thehive/release-notes/release-notes-5.0.md
-  - 'API Docs': thehive/api-docs/" target="_blank

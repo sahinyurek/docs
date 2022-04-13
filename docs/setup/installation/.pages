@@ -1,0 +1,8 @@
+nav:
+      - step-by-step-guide.md
+      - 'Running with Docker': docker.md
+      - 'Activate a license': license.md
+      - 3-node-cluster.md
+      - upgrade-from-4.x.md
+      - migration.md
+      - upgrade-cluster.md

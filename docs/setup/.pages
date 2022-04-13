@@ -1,0 +1,7 @@
+---
+nav:
+    - 'Overview': index.md
+    - 'Download': download
+    - 'Installation': installation
+    - 'Configuration': configuration
+    - 'Operations': operations

@@ -1,0 +1,9 @@
+nav:
+      - 'Database & index': database.md
+      - 'File storage': file-storage.md
+      - connectors.md
+      - akka.md
+      - logs.md
+      - proxy.md
+      - secret.md
+      - ssl.md

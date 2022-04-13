@@ -1,0 +1,8 @@
+nav:
+    - 'Operations on a Cassandra Cluster': cassandra-cluster.md
+    - backup-restore.md
+    - cassandra-security.md
+    - 'Operations on a MINIO cluster': minio-cluster.md
+    - https.md
+    - fail2ban.md
+    - troubleshooting.md

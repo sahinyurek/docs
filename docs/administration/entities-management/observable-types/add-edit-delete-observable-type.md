@@ -1,4 +1,4 @@
-# Manage Observable Type
+# Manage Observable Types
 
 In this section, you can find information about managing the observable type. You can add, delete, and edit an observable type.
 
@@ -13,7 +13,7 @@ To add a new observable type:
     Adding an Observable Type window opens.
 
 1. Enter a **Name** for an observable type.
-1. Switch on the **Attachment** button to attach a file.
+1. Switch on the **Attachment** button to specify that observables of this type will be added as files, not strings.
 1. Click the **Confirm observable type creation** button.
 
     <img src="../images/observable-type-details.png" alt="Create a New Observable Type" width="500" height="500"/>

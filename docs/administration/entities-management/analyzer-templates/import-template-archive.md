@@ -1,6 +1,8 @@
-# Import Templates Archive
+# Import Analyzers Templates Archive
 
-In this section, you can find information about importing templates archive.
+In this section, you can find information about importing analyzers templates archive.
+
+The analyzers template archive is a file provided by TheHive-Project that contains analyzers templates for every supported analyzer. It can be downloaded from the "import archive template" pop-up in TheHive.
 
 To import templates archive:
 

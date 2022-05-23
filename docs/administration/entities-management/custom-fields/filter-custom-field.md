@@ -1,6 +1,6 @@
-# Apply Filters to Custom Field
+# Apply Filters to Custom Field List
 
-In this section, you can find information about applying filters to a custom field.
+In this section, you can find information about applying filters to a custom field list.
 
 To apply filter to a custom field:
 
@@ -10,7 +10,7 @@ To apply filter to a custom field:
 
     <img src="../images/custom-field-apply-filter.png" alt="Apply Filter to Custom Field" width="1500" height="1500"/>
 
-1. Select the filters from the list.
+1. Select a field and enter a value as filter on this field.
 
     <img src="../images/custom-field-filter-list.png" alt="Custom Field Filter Types" width="400" height="200"/>
 

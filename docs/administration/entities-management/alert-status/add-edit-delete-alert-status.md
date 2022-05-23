@@ -4,7 +4,7 @@ In this section, you can find information about managing the alert status. You c
 
 ## Add Custom Status
 
-To add a custom alert:
+To add a custom status:
 
 1. On the Entities Management page, in the Alert status tab, click the **+** button.
 
@@ -53,7 +53,7 @@ To edit a custom status:
 
 ## Delete Custom Status
 
-To delete a custom Alert:
+To delete a custom status:
 
 1. On the Entities Management page, in the Alert status tab, click the ellipsis(...) corresponding to the value you want to delete.
 

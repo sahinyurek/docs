@@ -16,7 +16,7 @@ To change the user name:
 
     <img src="../images/account-settings-infos.png" alt="Account Settings Infos" width="1000" height="1000"/>
 
-1. Change the **Name** if required.
+1. Change the **Name** field value with the new name.
 
 1. Click the **Save** button.
 

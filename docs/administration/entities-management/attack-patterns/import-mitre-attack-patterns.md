@@ -10,7 +10,7 @@ To import the Mitre Attack Patterns:
 
     Import MITRE ATT&CK patterns window opens.
 
-1. Select the **Name of the catalog** from the list.
+1. Drop the catalog file or click to browse your files to find the catalog to add
 
 1. Click the **Import** button.
 

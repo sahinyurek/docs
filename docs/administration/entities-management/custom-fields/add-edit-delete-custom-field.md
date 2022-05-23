@@ -12,17 +12,21 @@ To add a new custom field:
 
     Adding a Custom Field window opens.
 
-1. Enter a **Display name** for the custom field.
-1. Enter a **Technical name**.
+1. Enter a **Display name** for the custom field. The display name is the name that will appear in your cases and alerts.
+1. Enter a **Technical name**. The technical name is the name used by the API to call a custom field.
 1. Enter a **Description**.
 1. Select the **Group** from the list.
 1. Select a **Type** from the list.
 
     <img src="../images/type-of-custom-field.png" alt="Type of Custom Field" width="200" height="200"/>
 
-1. Switch on the **Mandatory** button.
+1. In options, enter possible values for the customfield. 
 
-    When you make a custom field as a mandatory, you won't be able to resolve a case without populating the mandatory custom field.
+    If options are available, the analyst will not be able anymore to type a value in the customfield, but will chose a value from a drop-down list.
+
+1. Switch on the **Mandatory** button if you want this custom field to be obligatorily filled in every cases.
+
+    When you make a custom field as a mandatory, you won't be able to resolve a case without populating the mandatory custom fields.
 
 1. Click the **Confirm custom field creation** button.
 

@@ -1,5 +1,5 @@
 # About Profile
 
-When you install TheHive, you have many predefined profiles like the admin, analyst, org-admin, and read-only. Every profile is defined by a set of permissions.
+TheHive comes with predefined profiles, such as org-admin, analyst and read-only. Each profile is defined by a set of permission.
 
-You can also create a new profile with a new set of permissions.
+You can also create a new profile with a custom set of permissions.

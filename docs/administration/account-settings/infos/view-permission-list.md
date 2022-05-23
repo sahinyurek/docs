@@ -1,4 +1,4 @@
-# View Permission List
+# View Account Permissions
 
 In this section, you can find information about  the permission list in account settings.
 

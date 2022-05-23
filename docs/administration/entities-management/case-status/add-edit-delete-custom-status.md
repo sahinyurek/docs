@@ -1,6 +1,6 @@
 # Manage Custom Status
 
-In this section, you can find information about managing the case status. You can add, delete, and edit the case status.
+In this section, you can find information about managing the case statuses. You can add, delete, and edit the case status.
 
 ## Add Custom Status
 

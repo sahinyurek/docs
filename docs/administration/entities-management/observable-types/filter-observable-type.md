@@ -1,8 +1,6 @@
-# Filter Observable Type
+# Filter Observable Type List
 
-In this section, you can find information about applying filters to an observable type.
-
-To apply filter to an observable type:
+In this section, you can find information about applying filters to the observable type list:
 
 1. On the Entities Management page, in the Observable Types tab, switch on the **Filters** button.
 

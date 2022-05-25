@@ -1,6 +1,6 @@
 # View Status
 
-After you log in to the application, you are on the Organization list page by default.
+Logging using an account with administrator profile leads to the organisation list by default.
 
 To view the platform status:
 

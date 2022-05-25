@@ -1,6 +1,6 @@
 # Setup New Server
 
-In this section, you can find information about configuring the MISP integration.
+In this section, you can find information about configuring the MISP connector.
 MISP and TheHive can interact between each other in both ways:
 
 * TheHive is able to import events from a MISP instance as alerts and create cases from them.
@@ -25,7 +25,7 @@ To set up a new server:
 
     <img src="../images/purpose-list.png" alt="Purpose List" width="400" height="200"/>
   
-1. In the Proxy settings section, select the **Type of protocol** from the list.
+1. if TheHive need a proxy to connect to the MISP server, select the **Type of protocol** from the list.
 
     <img src="../images/type-of-protocol.png" alt="Type of Protocol" width="400" height="200"/>
     

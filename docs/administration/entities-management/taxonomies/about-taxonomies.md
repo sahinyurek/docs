@@ -1,8 +1,8 @@
 # About Taxonomies
 
-The TheHive application introduces the support of Taxonomies as it is defined and published by MISP. These set of classification libraries can be used in THeHive to tag Cases, Observables and Alerts.
+TheHive support taxonomies as they are defined and published by MISP.
 
-Taxonomies are likes groups or catalogues or custom packs. You can import the list of taxonomies and use them to classify the cases and alerts using the pre-defined tags from the taxonomies. You can enable the taxonomies you want to use.
+You can import catalogs of taxonomies and use them to classify cases, alerts and observables. TheHive allows you to disable the catalogs you won't use.
 
 > By default, TheHive does not contain any taxonomy.
 

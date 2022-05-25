@@ -1,5 +1,9 @@
 # Drop and Rebuild the Index
 
+!!! Warning
+    
+    This operation may have bad consequences and should not be triggered without strong reasons. We recommend you to contact StrangeBee support before performing this operation.
+
 In this section you will find information about dropping and rebuilding your database index.
 
 To drop and rebuild the database index:

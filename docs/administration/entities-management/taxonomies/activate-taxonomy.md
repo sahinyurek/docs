@@ -1,6 +1,6 @@
 # Activate Taxonomy
 
-In this section, you can find information about activating/deactivating the taxonomies.
+In this section, you can find information about activating/deactivating taxonomies.
 
 To activate a taxonomy:
 
@@ -16,7 +16,7 @@ To activate a taxonomy:
 
 ## Deactivate Taxonomy
 
-To deactivate a taxonomy:
+To deactivate a taxonomies:
 
 1. On the Entities Management page, in the Taxonomies tab, click the ellipsis (...) corresponding to the taxonomy you want to deactivate.
 

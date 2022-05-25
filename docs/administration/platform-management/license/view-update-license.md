@@ -1,11 +1,9 @@
 # View Update License
 
 In this section you will find information about updating your license.
-When you install and TheHive, by default it will include the community edition license. 
+By default, TheHive comes with a community edition license.
 
-If you want to activate the license, you nees to buy the license from StrangeBee. WHen you buy the license from StrangeBee, StrangeBee will create an account for you on the customer portal that will allow you to activate the license.
-
-To activate the license:
+To activate your purchased license, connect to StrangeBee customer portal, then::
 
 1. On the Platform Management page, in the License tab, click the **Update the current license** button.
 
@@ -21,13 +19,13 @@ To activate the license:
 1. Enter the activation key in the **License** field.
 1. Click the **Activate the license key** button.
 
-    This will activate the license and update your instance with all the features included with that license.
+    This will activate the license and update your instance with all the features included in your license plan.
 
     <img src="../images/copy-challenge.png" alt="copy challenge" width="1000" height="1000"/>
 
-    The license is defined by the following capabilities:
+    The license is defined by the following characteristics:
 
-    1. It defines how many users you can create in your platform. 
-    1. The license is based on the number of users and the number of organizations.
-    1. It has a validation and an expiration date.
-    1. It allows unlimited number of Readonly users and Service users. Service users are those who do not have access to the TheHive interface but they use an API key to call all the APIs.
+    1. Number of users you can create in the platform. NB: Service users are unlimited, whatever license plan you have.
+    1. Number of organisation you can create in the platform.
+    1. The extra-features it allows you to use.
+    1. The license validity dates.

@@ -1,4 +1,4 @@
-# Filter Taxonomies
+# Filter Taxonomies List
 
 In this section, you can find information about applying filters to taxonomies.
 
@@ -10,7 +10,7 @@ To apply filter to taxonomies:
 
     <img src="../images/apply-filters-to-taxonomies.png" alt="Apply Filter to Taxonomies" width="1500" height="1500"/>
 
-1. Select the filters from the list.
+1. Select a field and enter a value as filter on this field.
 
     <img src="../images/filter-options-taxonomies.png" alt="Taxonomies Filters List" width="1000" height="1000"/>
 

@@ -23,7 +23,7 @@ On the Platform Management page, in the Authentication tab, you can see the list
 
     <img src="../images/local-authentication.png" alt="Local Authentication" width="1000" height="1000"/>
 
-1. **Directories Authentication**: You can configure The Hive to use either active directory or LDAP to authorize the users. If you manage your users through a active directory, then you can configure TheHive in a way that every time a user enters the username, you will authenticate the crredentials in the configured active directory and if active directory accepts the credentials then you authorize the user.
+1. **Directories Authentication**: You can configure The Hive to use either active directory or LDAP to authorize the users. If you manage your users through a active directory, then you can configure TheHive in a way that every time a user enters the username, you will authenticate the credentials in the configured active directory and if active directory accepts the credentials then you authorize the user.
 
     Active Directory Configuration:
 

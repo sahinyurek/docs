@@ -1,9 +1,9 @@
 # Lock User
 
 In this section you can find information about how to lock a user.
-If a user is no longer working on the TheHive platform, you can lock the user. The user is noe deactivated and can no longer log in to the application. 
+Once locked, an user can no longer access to TheHive.
 
-To lock the user:
+To lock an user:
 
 Go to the preview Users window.
 

@@ -1,4 +1,4 @@
-# Filter Profile
+# Filter Profiles List
 
 In this section, you can find information about applying filters to the profile.
 
@@ -10,7 +10,7 @@ To apply filter to a profile:
 
 <img src="../images/apply-filters-to-profile.png" alt="Apply Filter to Profile" width="1500" height="1500"/>
 
-1. Select the filters from the list.
+1. Select a field and enter a value as filter on this field.
 
     <img src="../images/profile-filter-types.png" alt="Profile Filter Types" width="400" height="400"/>
 

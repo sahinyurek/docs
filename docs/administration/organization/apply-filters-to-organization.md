@@ -1,4 +1,4 @@
-# Apply Filters to Organization
+# Apply Filters to Organizations List
 
 In this section, you can find information about applying filters to the organization.
 
@@ -10,7 +10,7 @@ To apply filter to an organization:
 
     <img src="../images/apply-filter-to-organization.png" alt="Apply Filter to Organization" width="1500" height="1500"/>
 
-1. Select the filters from the list.
+1. Select a field and enter a value as filter on this field.
 
     <img src="../images/org-filters-list.png" alt="Organization Filters List" width="1000" height="1000"/>
 

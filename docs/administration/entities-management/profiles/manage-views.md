@@ -2,7 +2,7 @@
 
 In this section you can find information about how to save and manage the current profile list view. 
 
-To save the current profile list view:
+## Save the current profile list view:
 
 1. On the Entities Management page, in the Profiles tab, click the **default** button.
 
@@ -23,7 +23,7 @@ To save the current profile list view:
 
     <img src="../images/profile-view-saved-message.png" alt="View Saved" width="400" height="200"/>
     
-To delete a view:
+## Delete a view:
 
 1. On the Entities Management page, in the Profiles tab, click the **default** button
 

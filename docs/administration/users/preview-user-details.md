@@ -10,6 +10,6 @@ To preview the user details:
 
 The user details window opens. 
 
-You can see details like the username, avatar, login name, email id, API, and organizations.
+You can see details like the username, avatar, login name, email id, API Key, and organizations.
 
 <img src="../images/preview-user-details.png" alt="Preview User Details" width="800" height="800"/>

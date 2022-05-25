@@ -1,8 +1,8 @@
-# Reset Password
+# Reset a user password
 
 In this section you can find information about how to reset your password if needed.
 
-To reset password:
+to reset user's password:
 
 1. On the Users tab, click the **Preview** button corresponding to the username.
 
@@ -14,8 +14,8 @@ To reset password:
 
     <img src="../images/reset-password-button.png" alt="Reset Password" width="800" height="800"/>
 
-    You can see a message that an email is sent to reset your password.
+    You can see a message that an email is sent to reset the password.
 
-    You can change your password by clicking on the link sent in the email.
+    The user can now change his password by clicking on the link received by email.
 
     <img src="../images/reset-password-mail-message.png" alt="Email to reset password" width="500" height="500"/>

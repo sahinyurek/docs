@@ -1,4 +1,4 @@
-# Manage the Cortex Server
+# Manage connections with cortex servers
 
 In this section, you can find information about configuring the cortex integration.
 
@@ -24,7 +24,7 @@ To set up a new server:
 
     1. Enter the **Address**.
 
-    1. witch on the buttons for **Athentification**, **Do not check certificate authority**, and **Disable hostname verification** if required.
+    1. If needed, switch on authentification button. For QA testing, you can disable certificate authority check and hostname verification (we strongly recommend you to not disable it for production environments).
 
 1. In the Advanced settings section, select the filter for the TheHive organizations from the list.
 

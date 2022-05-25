@@ -12,7 +12,7 @@ To add a new endpoint:
 
     Endpoint Creation window opens.
 
-1. Choose a Connectore form the available connectors.
+1. Choose a connector form the available connectors.
 
 1. Enter the required information for that connector.
 

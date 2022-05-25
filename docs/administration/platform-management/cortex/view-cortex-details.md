@@ -1,4 +1,4 @@
-# View Cortex Details
+# View Cortex connectors details
 
 You can view the list of cortex servers on the Platform Management page, in the Cortex tab.
 

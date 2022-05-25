@@ -13,7 +13,7 @@ To add a new user:
     Adding a User window opens.
 
 1. Enter a Login and Name for the new user.
-1. Choose the Organization for the user and the user profile from the list.
+1. Defines to which organisation(s) the user will belongs to, and the profile he will have in each organisation.
 1. Click the **Confirm user creation** button.
 
     <img src="../images/add-user-details.png" alt="Add User Details" width="400" height="200"/>

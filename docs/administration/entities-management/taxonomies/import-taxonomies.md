@@ -2,7 +2,7 @@
 
 In this section, you can find information about importing taxonomies.
 
-To access and import taxonomies:
+To import taxonomies:
 
 1. On the Entities Management page, in the Taxonomies tab, click the **Import taxonomies** button.
 

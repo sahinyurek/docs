@@ -8,6 +8,6 @@ To export platform status report:
 
     <img src="../images/export-status-report.png" alt="Export Status Report" width="1000" height="1000"/>
 
-    The platform status report JSON Source file is exported.
+    A JSON file containing the platform status is exported.
 
     

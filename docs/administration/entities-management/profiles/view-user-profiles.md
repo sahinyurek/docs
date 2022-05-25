@@ -1,8 +1,8 @@
-# View User Profiles
+# View User Profiles List
 
-After you log in to the application, you are on the Organization list page by default.
+When logging with an administrator account, the default page is the organization list.
 
-To view the user profiles:
+To view the user profiles list:
 
 1. On the left side of the window, click the **Entities Management** tab.
 

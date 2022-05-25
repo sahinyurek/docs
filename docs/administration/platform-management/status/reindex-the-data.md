@@ -1,5 +1,9 @@
 # Reindex the Data
 
+!!! Warning
+    
+    This operation may have bad consequences and should not be triggered without strong reasons. We recommend you to contact StrangeBee support before performing this operation.
+
 In this section you will find information about reindexing your database.
 
 To reindex data:

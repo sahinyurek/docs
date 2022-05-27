@@ -11,7 +11,7 @@ It contains details about:
 
 It also allows:
 
-1. Exporting a JSON report of the health status including more details than informations displayed in the UI.
-1. Reindexing the database.
-1. Triggering the database integrity checks.
+* Exporting a JSON report of the database health status including more details than informations displayed in the UI.
+* Reindexing the database.
+* Triggering database integrity checks.
 

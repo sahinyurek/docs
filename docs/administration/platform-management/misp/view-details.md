@@ -1,4 +1,4 @@
-# View MISP Servers details
+# View MISP Servers list and details
 
 You can view the list of MISP servers on the Platform Management page, in the MISP tab.
 

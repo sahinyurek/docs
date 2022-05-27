@@ -1,4 +1,4 @@
-# Delete Template
+# Delete An Analyzer Template
 
 In this section, you can find information about deleting a template. 
 

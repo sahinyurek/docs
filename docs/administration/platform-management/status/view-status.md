@@ -1,4 +1,4 @@
-# View Status
+# View Platform Status
 
 Logging using an account with administrator profile leads to the organisation list by default.
 

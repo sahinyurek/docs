@@ -1,6 +1,6 @@
 # Configure LDAP Server
 
-TheHive allows you to connect to a LDAP server to automatically create users in TheHive.
+TheHive allows you to connect to a LDAP server to synchronize the LDAP directory with your TheHive users base. TheHive will replicate existing LDAP users and lock the users that no more exists in the directory.
 
 LDAP (Lightweight Directory Access Protocol) is an open standard application protocol to access and maintain distributed directory information services over an IP network. 
 

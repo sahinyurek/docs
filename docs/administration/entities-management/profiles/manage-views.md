@@ -1,8 +1,8 @@
-# Manange Profile View
+# Manage Profiles View
 
 In this section you can find information about how to save and manage the current profile list view. 
 
-## Save the current profile list view:
+## Save the current profiles list view:
 
 1. On the Entities Management page, in the Profiles tab, click the **default** button.
 

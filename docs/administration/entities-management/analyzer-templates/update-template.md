@@ -1,4 +1,4 @@
-# Update Template
+# Update An Analyzer Template
 
 In this section, you can find information about updating a template. 
 

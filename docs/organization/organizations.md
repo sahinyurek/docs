@@ -1,9 +1,26 @@
-# About Organization
+# About Organisations
 
-Organizations are the customers or tenants who are using the TheHive application.
+## Admin organisation
 
-TheHive comes with a default organisation named "admin" and is dedicated to users with administrator permissions of TheHive instance. This organisation is very specific so that it can manage global objects and cannot contain cases or any other related elements.
+TheHive comes with an Admin organisation where you can manage every organisations, users and define settings at the platform level.
 
-By default, organisations can’t see each other and can't share data. 
+## Multi-tenancy
 
-On the home page, you can see the organization List.
+TheHive comes with multi-tenancy capability. 
+
+One user can be member of 1 to X organisation(s) with a different profile on each organisation.
+
+By default, every organisation are logically isolated and don't know each other. TheHive also allows to link organisations between each other, which permit them to share information accross them such as `Cases`, `Observables` and `Tasks`.
+
+## Org-level objects
+
+Each organisation is able to manage objects* at their level, such as:
+
+ - Users
+ - Case templates
+ - Notifications
+ - Endpoints
+ - Custom Tags
+ - UI Configurations
+
+*This list isn't exhaustive as updates may add capabilities, objects & settings over time

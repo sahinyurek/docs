@@ -1,7 +1,7 @@
-# Sign In as Org-Admin
+# Login to TheHive
 
-1. Open the TheHive application in your browser. 
-1. Enter user credentials, **Login** name and **password**.
+1. Connect to TheHive with your web browser. 
+1. Enter a username and a password.
 1. Click the **Let me In** button. 
 
 <img src="../images/sign-in-screen.png" alt="sign-in screen" width="500" height="500"/>
